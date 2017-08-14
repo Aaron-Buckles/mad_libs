@@ -1,8 +1,0 @@
-Pizza was invented by a <a> <nat> chef named <per>.
-To make a pizza, you need to take a lump of <n>, and
-make a thin, round <a> <n>. Then you cover it with <a>
-sauce, <a> cheese, and fresh chopped <pn>. Next you 
-have to bake it in a very hot <n>. When it is done, 
-cut it into <num> <pshape>. Some kids like <food> 
-pizza the best, but my favorite is the <food> pizza.
-If I could, I would eat pizza <num> times a day!

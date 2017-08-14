@@ -28,7 +28,7 @@ def show_available_stories():
     clear_screen()
     available_stories = []
 
-    files = os.listdir()
+    files = os.listdir('stories')
     for file in files:
         if ".txt" in file:
             available_stories.append(file[:-4].capitalize())
@@ -42,7 +42,7 @@ def choose_story():
     while True:
         story_name = input("Choose a story: ").lower()
         try:
-            f = open("{}.txt".format(story_name), "r")
+            f = open("stories\{}.txt".format(story_name), "r")
         except FileNotFoundError:
             print("{} does not exist. Try again.".format(story_name))
             

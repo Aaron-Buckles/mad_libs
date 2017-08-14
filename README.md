@@ -7,7 +7,7 @@ A Mad Libs game made in python where the user can write their own stories!
 
 ## How to create your own stories
 1. Create a .txt file with the name of your story. (**no spaces in filename**)
-1. Make sure the file is in the same directory as the python script.
+1. Make sure the text file is in the *stories* folder.
 1. Type your story into the text file. (**you must manually add newlines to the story**)
 1. For blank words that the player must fill in, use a tag. **Example:** `The <n> ran to the <a> park!`
 #### Tags
